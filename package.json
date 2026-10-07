@@ -1,0 +1,15 @@
+{
+  "name": "discord-vc-24-7",
+  "version": "1.0.0",
+  "description": "Discord VC 24/7 Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "@discordjs/voice": "^0.16.1",
+    "libsodium-wrappers": "^0.7.13",
+    "@discordjs/opus": "^0.9.1"
+  }
+}
